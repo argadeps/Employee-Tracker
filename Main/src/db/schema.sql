@@ -1,4 +1,4 @@
--- Drop the database if it exists
+M-- Drop the database if it exists
 DROP DATABASE IF EXISTS employees;
 
 -- Create the new database

@@ -7,10 +7,10 @@ import pg from 'pg';
 const { Pool } = pg;
 
 const pool = new Pool({
-  user: process.env.DB_USER,
-  password: process.env.DB_PASSWORD,
+  user: process.env.DB_USER || 'postgres',
+  password: process.env.DB_PASSWORD || '&p#m64SA',
   host: 'localhost',
-  database: process.env.DB_NAME,
+  database: process.env.DB_NAME || 'employees',
   port: 5432,
 });
 
