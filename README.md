@@ -47,3 +47,9 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 
 ![alt text](12-sql-homework-video-thumbnail.png)
+
+https://app.screencastify.com/v2/manage/videos/CdKfowF2bLZEQICq5kFh
+
+https://drive.google.com/file/d/1j87MNRDyBXcJzVcIrE8SiFNbRhBv6LWY/view?usp=sharing
+
+
